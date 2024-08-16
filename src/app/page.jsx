@@ -56,7 +56,7 @@ export default function page() {
 
       <h1>บริการรับทำโฆษณาออนไลน์สายเทา</h1>
       <h2>รับทำโฆษณา Facebook Ads สายเทา</h2>
-      <Image src="/img/facebook_ads.webp" width={600} height={300} loading="lazy"  className='pageimg' alt="facebook_ads" />
+      <Image src="/img/01.webp" width={600} height={300} loading="lazy"  className='pageimg' alt="facebook_ads" />
      
       <h5><Link href='/facebook_ads'>รับทำโฆษณา Facebook Ads สายเทา</Link></h5> <p>ทำโฆษณาเว็บไซต์ต่างๆ ด้วยทีมงานมืออาชีพ อัตราค่าบริการเพียงเดือนละ 9,900 บาท ไม่มีค่าใช้จ่ายเพิ่มเติม มีรีวิวจากลูกค้าจริงให้ชม</p>
       <h5>จ้างทำโฆษณาออนไลน์สายเทา</h5> <p>ไว้ใจเราได้ รูปภาพทั้งหมดนี้เป็นส่วนหนึ่งในการทำงานของเรา</p>
