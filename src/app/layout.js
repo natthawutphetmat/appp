@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
 
       <script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"/> 
 
-      <GoogleAnalytics gaId="G-XYZ" />
+      <GoogleAnalytics gaId="G-WRTP6VM3H9" />
     </html>
   );
 }
